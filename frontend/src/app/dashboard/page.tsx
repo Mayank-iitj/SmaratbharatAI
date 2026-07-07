@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress"; // Need to create or mock this if not installed
 import { FileText, Bell, CheckCircle2, AlertCircle } from "lucide-react";
 
 export default function DashboardPage() {
